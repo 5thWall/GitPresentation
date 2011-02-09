@@ -2,6 +2,7 @@
 	"name": "Git",
 	"description": "Git SCM",
 	"sections": [
-		{"section":"title"}
+		{"section":"title"},
+		{"section":"what"}
 	]
 }
