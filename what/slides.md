@@ -26,7 +26,7 @@
         y.times { |i| @map[i] = ['#'] * x }
     end
 
-!SLIDE full-page-image
+!SLIDE center-image
 
 ![A code monkey](codemonkey.jpg "Code monkey needs caffiene")
 
@@ -42,20 +42,20 @@
 
 !SLIDE
 
-# code to manage changes in code #
+# manage changes in code #
 
 !SLIDE
 
-# maintaining a history #
+# maintaining history #
 
 !SLIDE bullets incremental
 
-# examples #
+# examples: #
 
- * CSV
- * SVN
- * Mercurial
  * git
+ * Mercurial
+ * SVN
+ * CSV
 
 !SLIDE
 
