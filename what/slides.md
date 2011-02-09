@@ -32,9 +32,13 @@
 
 <p>Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jawboneradio/128658130/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/jawboneradio/">jawboneradio</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">(CC-BY-NC-SA)</a></p>
 
-!SLIDE
+!SLIDE bullets incremental
 
 # messy #
+
+ * how to revert to what worked?
+ * what changed?
+ * how to share?
 
 !SLIDE
 
@@ -42,11 +46,11 @@
 
 !SLIDE
 
-# code to manage changes in code #
+# manage changes in code #
 
 !SLIDE
 
-# maintaining a history #
+# maintaining history #
 
 !SLIDE bullets incremental
 
@@ -56,6 +60,18 @@
  * SVN
  * Mercurial
  * git
+
+!SLIDE
+
+# git #
+
+!SLIDE
+
+# Linus Torvalds # 
+
+!SLIDE
+
+# "stupid and ugly" #
 
 !SLIDE
 
