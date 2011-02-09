@@ -3,6 +3,7 @@
 	"description": "Git SCM",
 	"sections": [
 		{"section":"title"},
-		{"section":"what"}
+		{"section":"what"},
+		{"section":"story"}
 	]
 }
