@@ -32,7 +32,6 @@
  * push
  * pull
  * clone
- * remote
 
 !SLIDE
 
