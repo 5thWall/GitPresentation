@@ -1,5 +1,3 @@
 !SLIDE
 
-# GIT SCM
-
-## Andrew Arminio
+# git
