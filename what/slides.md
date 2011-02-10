@@ -26,6 +26,10 @@
         y.times { |i| @map[i] = ['#'] * x }
     end
 
+!SLIDE 
+
+# developers #
+
 !SLIDE full-page-image
 
 ![A code monkey](codemonkey.jpg "Code monkey needs caffiene")
@@ -67,11 +71,15 @@
 
 !SLIDE
 
+# 2005 #
+
+!SLIDE
+
 # Linus Torvalds # 
 
 !SLIDE
 
-# "stupid and ugly" #
+# "stupid" #
 
 !SLIDE
 
