@@ -25,12 +25,4 @@
 
 !SLIDE
 
-# ruby
-
-!SLIDE
-
-# not java
-
-!SLIDE
-
 # `</me>`
