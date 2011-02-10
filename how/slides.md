@@ -1,30 +1,46 @@
 !SLIDE
 
-# `<how>` #
+# `<how>`
 
 !SLIDE
 
-# commands #
+# commands
 
 !SLIDE
 
-# problems #
+# problems
 
 !SLIDE
 
-# `<sharing>` #
+# `<basics>`
+
+!SLIDE bullets
+
+ * init
+ * commit
 
 !SLIDE
 
-# `init` #
+# `</basics>`
 
 !SLIDE
 
-# `commit` #
+# `<sharing>`
+
+!SLIDE bullets
+
+ * push
+ * pull
+ * clone
+ * remote
 
 !SLIDE
 
-# `push`, `pull`, `clone` and `remote` #
+# !command
+
+!SLIDE
+
+# workflow
 
 !SLIDE
 
@@ -32,32 +48,38 @@
 
 !SLIDE
 
-# `<working code>` #
+# `<working code>`
+
+!SLIDE bullets
+
+ * branch
+ * checkout
+ * merge
+
+!SLIDE bullets
+
+ * reset
+ * checkout
+ * revert
 
 !SLIDE
 
-# `branch`, `checkout`, `merge` #
+# `</working code>`
 
 !SLIDE
 
-# `reset`, `checkout` and `revert` #
+# `<what changed>`
+
+!SLIDE bullets
+
+ * diff
+ * blame
+ * bisect
 
 !SLIDE
 
-# `</working code>` #
+# `</what changed>`
 
 !SLIDE
 
-# `<what chonged>` #
-
-!SLIDE
-
-# `diff`, `blame` and `bisect` #
-
-!SLIDE
-
-# `</what changed>` #
-
-!SLIDE
-
-# `</how>` #
+# `</how>`
